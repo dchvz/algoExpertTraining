@@ -1,25 +1,17 @@
-## The objective of this repo
 
-Document my learning through the use of the AlgoExpert Platform for future reference
+# algo-expert traning
 
-I will only thrive to do the first 100 questions of Algo Expert, the remaining 'Very Hard' questions will probably have to wait a bit more :) or who knows I might give it a shot when I am done with the first hundred
+![AlgoExpert cover image](https://cdn.prod.website-files.com/66bc0319fce51f7e5568a809/66cccf9f0831b90db80f9e82_63d939d762e51477220cd31b_AlgoExpert.webp)
 
-### Current Progress
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT "MIT License")
+ [![Generic badge](https://img.shields.io/badge/lang-python-yellow.svg)](https://www.python.org/)
+ [![Generic badge](https://img.shields.io/badge/last%20updated-28--08--2021-pink)](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
 
-30/100 questions completed
+**Description:** This is a collection of all [AlgoExpert Coding Interview](https://www.algoexpert.io/questions) questions which I will be solving to improve my problem solving skills
+**Data Structures:** I will also include my notes for the data structures crash course
 
-#### Easy questions 25/25
+## ✅ Easy (1/31)
 
-TODO: add list of easy questions with links to explain them all
-
-#### Medium Questions 5/55
-
-TODO: add list of easy questions with links to explain them all
-
-#### Hard Questions 0/46
-
-TODO: add list of easy questions with links to explain them all
-
-#### Very Hard Questions 0/46 0/34
-
-TODO: add list of easy questions with links to explain them all
+| ✔️ | Problem Statement | Difficulty | Solution |
+|----|-------------------|------------|----------|
+| 🟢 | Node Depths | 🟩 | `node-depths.py` |
