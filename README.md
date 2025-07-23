@@ -1,5 +1,5 @@
 
-# algo-expert traning
+# ⚛ AlgoExpert Traning
 
 ![AlgoExpert cover image](https://cdn.prod.website-files.com/66bc0319fce51f7e5568a809/66cccf9f0831b90db80f9e82_63d939d762e51477220cd31b_AlgoExpert.webp)
 
