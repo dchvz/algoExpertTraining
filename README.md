@@ -5,7 +5,6 @@
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT "MIT License")
  [![Generic badge](https://img.shields.io/badge/lang-python-yellow.svg)](https://www.python.org/)
- [![Generic badge](https://img.shields.io/badge/last%20updated-28--08--2021-pink)](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
 
 ## Description:
 - This is a collection of all [AlgoExpert Coding Interview](https://www.algoexpert.io/questions) questions which I will be solving to improve my problem solving skills </br>
@@ -16,3 +15,6 @@
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
 | 🟢 | Node Depths | 🟩 | `node-depths.py` |
+
+
+Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
