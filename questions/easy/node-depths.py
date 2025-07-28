@@ -12,7 +12,7 @@
 #     4   8
 #    / \
 #   5   6
-## Sample Output: 8
+# Sample Output: 12
 ## Explanation: The depths of the nodes are as follows:
 # - Node 1 (root): depth 0
 # - Node 2: depth 1
