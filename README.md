@@ -14,7 +14,9 @@
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
-| 🟢 | Node Depths | 🟩 | `node-depths.py` |
+| 🟢 | Node Depths | 🟩 | [node-depths.py](questions/easy/node-depths.py) |
+| 🟢 | Node Depths | 🟩 | [linked-lists.py](questions/easy/linked-lists.py) |
+| 🟢 | Node Depths | 🟩 | [two-number-sum.py](questions/easy/two-number-sum.py) |
 
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
