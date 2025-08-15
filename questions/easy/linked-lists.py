@@ -11,6 +11,9 @@ class LinkedList:
 
 # The reason we use current_node (cursor) instead of just node is so that we can return the whole list (with modifications)
 # If we were to use just node, it would just return the last node after traversal
+
+# Time Complexity: O(n), where n is the number of nodes in the linked list
+# Space Complexity: O(1), because the list is being modified in place, the current_node variable is only a pointer/ref
 def removeDuplicatesFromLinkedList(node):
     current_node = node
     while current_node and current_node.next:
