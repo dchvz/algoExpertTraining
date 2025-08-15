@@ -10,7 +10,7 @@
 - This is a collection of all [AlgoExpert Coding Interview](https://www.algoexpert.io/questions) questions which I will be solving to improve my problem solving skills </br>
 - I will also include my notes for the data structures crash course
 
-## ✅ Easy (1/31)
+## ✅ Easy (3/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
