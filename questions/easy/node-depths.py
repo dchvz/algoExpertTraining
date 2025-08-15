@@ -27,8 +27,8 @@
 # It takes two parameters:
 #   - `root`, which is the root node of the tree
 #   - `depth`, which defaults to 0 and represents the current depth in the tree.
-# If a node is None, it means it is child of a leaf node (bottom node)
-# else, each level down means +1 in depth
+# If a node is None, it means it is child of a leaf node (bottom node), so it does not exist
+# else, each level down means +1 in depth, we do this for the left node and the right node each time
 
 # Time Complexity: O(n), where n is the number of nodes in the tree.
 # Space Complexity: O(h), where h is the height of the tree, due to the recursive call stack.
@@ -53,6 +53,30 @@ def build_tree(tree_dict):
         if node['right']:
             nodes[node['id']].right = nodes.get(node['right'])
     return nodes[tree_dict['root']]
+
+def print_tree_top_down(root):
+    # Helper to get the tree's height
+    def get_height(node):
+        if not node:
+            return 0
+        return 1 + max(get_height(node.left), get_height(node.right))
+
+    # Helper to fill levels
+    def fill_levels(node, depth, pos, levels, width):
+        if node:
+            levels[depth][pos] = str(node.value)
+            gap = 2 ** (height - depth - 2)
+            if node.left:
+                fill_levels(node.left, depth + 1, pos - gap, levels, width)
+            if node.right:
+                fill_levels(node.right, depth + 1, pos + gap, levels, width)
+
+    height = get_height(root)
+    width = 2 ** height - 1
+    levels = [[" " for _ in range(width)] for _ in range(height)]
+    fill_levels(root, 0, width // 2, levels, width)
+    for level in levels:
+        print("".join(level))
 
 ex1 = {
     "tree": {
@@ -93,6 +117,16 @@ ex3 = {
 tree1 = build_tree(ex1["tree"])
 tree2 = build_tree(ex2["tree"])
 tree3 = build_tree(ex3["tree"])
-print(node_depths(tree1))
-print(node_depths(tree2))
-print(node_depths(tree3))
+
+print("_______Tree 1_________")
+print_tree_top_down(tree1)
+print("result:" + str(node_depths(tree1)))
+
+print("_______Tree 2_________")
+print_tree_top_down(tree2)
+print("result:" + str(node_depths(tree2)))
+
+print("_______Tree 3_________")
+print_tree_top_down(tree3)
+
+print("result:" + str(node_depths(tree3)))
