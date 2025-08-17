@@ -10,13 +10,14 @@
 - This is a collection of all [AlgoExpert Coding Interview](https://www.algoexpert.io/questions) questions which I will be solving to improve my problem solving skills </br>
 - I will also include my notes for the data structures crash course
 
-## ✅ Easy (3/31)
+## ✅ Easy (4/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
 | 🟢 | Node Depths | 🟩 | [node-depths.py](questions/easy/node-depths.py) |
 | 🟢 | Linked Lists | 🟩 | [linked-lists.py](questions/easy/linked-lists.py) |
 | 🟢 | Two Number Sum | 🟩 | [two-number-sum.py](questions/easy/two-number-sum.py) |
+| 🟢 | Validate Subsequence | 🟩 | [validate-subsequence.py](questions/easy/validate-subsequence.py) |
 
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
