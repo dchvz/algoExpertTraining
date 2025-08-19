@@ -10,7 +10,7 @@
 - This is a collection of all [AlgoExpert Coding Interview](https://www.algoexpert.io/questions) questions which I will be solving to improve my problem solving skills </br>
 - I will also include my notes for the data structures crash course
 
-## ✅ Easy (5/31)
+## ✅ Easy (6/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -19,6 +19,7 @@
 | 🟢 | Two Number Sum | 🟩 | [two-number-sum.py](questions/easy/two-number-sum.py) |
 | 🟢 | Validate Subsequence | 🟩 | [validate-subsequence.py](questions/easy/validate-subsequence.py) |
 | 🟢 | Sorted Squared Array | 🟩 | [sorted-squared-array.py](questions/easy/sorted-squared-array.py) |
+| 🟢 | Tournament Winner | 🟩 | [tournament-winner.py](questions/easy/tournament-winner.py) |
 
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
