@@ -10,7 +10,7 @@
 - This is a collection of all [AlgoExpert Coding Interview](https://www.algoexpert.io/questions) questions which I will be solving to improve my problem solving skills </br>
 - I will also include my notes for the data structures crash course
 
-## ✅ Easy (7/31)
+## ✅ Easy (8/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -21,6 +21,7 @@
 | 🟢 | Sorted Squared Array | 🟩 | [sorted-squared-array.py](questions/easy/sorted-squared-array.py) |
 | 🟢 | Tournament Winner | 🟩 | [tournament-winner.py](questions/easy/tournament-winner.py) |
 | 🟢 | Non-Constructible Change | 🟩 | [non-constructible-change.py](questions/easy/non-constructible-change.py) |
+| 🟢 | Find Closest Value in BST | 🟩 | [find-closest-value-in-bst.py](questions/easy/find-closest-value-in-bst.py) |
 
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
