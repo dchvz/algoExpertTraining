@@ -13,7 +13,7 @@
 ## Pro Tip
 Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
 
-## ✅ Easy (9/31)
+## ✅ Easy (10/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -26,6 +26,8 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Non-Constructible Change | 🟩 | [non-constructible-change.py](questions/easy/non-constructible-change.py) |
 | 🟢 | Find Closest Value in BST | 🟩 | [find-closest-value-in-bst.py](questions/easy/find-closest-value-in-bst.py) |
 | 🟢 | Branch Sums | 🟩 | [branch-sums.py](questions/easy/branch-sums.py) |
+| 🟢 | Depth First Search | 🟩 | [depth-first-search.py](questions/easy/depth-first-search.py) |
+
 
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
