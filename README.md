@@ -10,6 +10,9 @@
 - This is a collection of all [AlgoExpert Coding Interview](https://www.algoexpert.io/questions) questions which I will be solving to improve my problem solving skills </br>
 - I will also include my notes for the data structures crash course
 
+## Pro Tip
+Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
+
 ## ✅ Easy (9/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
