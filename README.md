@@ -13,12 +13,12 @@
 ## Pro Tip
 Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
 
-## ✅ Easy (11/31)
+## ✅ Easy (12/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
 | 🟢 | Node Depths | 🟩 | [node-depths.py](questions/easy/node-depths.py) |
-| 🟢 | Linked Lists | 🟩 | [linked-lists.py](questions/easy/linked-lists.py) |
+| 🟢 | Remove Duplicates From Linked List | 🟩 | [remove-duplicates-from-linked-list.py](questions/easy/remove-duplicates-from-linked-list.py) |
 | 🟢 | Two Number Sum | 🟩 | [two-number-sum.py](questions/easy/two-number-sum.py) |
 | 🟢 | Validate Subsequence | 🟩 | [validate-subsequence.py](questions/easy/validate-subsequence.py) |
 | 🟢 | Sorted Squared Array | 🟩 | [sorted-squared-array.py](questions/easy/sorted-squared-array.py) |
@@ -28,6 +28,7 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Branch Sums | 🟩 | [branch-sums.py](questions/easy/branch-sums.py) |
 | 🟢 | Depth First Search | 🟩 | [depth-first-search.py](questions/easy/depth-first-search.py) |
 | 🟢 | Minimum Wait Time | 🟩 | [minimum-waiting-time.py](questions/easy/minimum-waiting-time.py) |
+| 🟢 | Class Photos | 🟩 | [class-photos.py](questions/easy/class-photos.py) |
 
 
 
