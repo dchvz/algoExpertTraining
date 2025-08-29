@@ -6,7 +6,7 @@
 # Time Complexity O(nlogn) because sorting is necessary on the queries array
 # Space Complexity O(1) because we use single variables to keep track of data
 def minimum_waiting_time(queries):
-  # sorting is necessary to leave to prevent executing longer queries first
+  # sorting is necessary to prevent executing longer queries first
   queries.sort()
   iteration_wait_time = 0
   overall_wait_time = 0
