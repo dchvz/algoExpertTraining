@@ -27,7 +27,7 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Find Closest Value in BST | 🟩 | [find-closest-value-in-bst.py](questions/easy/find-closest-value-in-bst.py) |
 | 🟢 | Branch Sums | 🟩 | [branch-sums.py](questions/easy/branch-sums.py) |
 | 🟢 | Depth First Search | 🟩 | [depth-first-search.py](questions/easy/depth-first-search.py) |
-| 🟢 | Minimum Wait Time | 🟩 | [minimum-wait-time.py](questions/easy/minimum-wait-time.py) |
+| 🟢 | Minimum Wait Time | 🟩 | [minimum-waiting-time.py](questions/easy/minimum-waiting-time.py) |
 
 
 
