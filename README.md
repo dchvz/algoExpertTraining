@@ -17,18 +17,18 @@ Be aware of the concepts before heading right into the problem. Having an unders
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
-| 🟢 | Node Depths | 🟩 | [node-depths.py](questions/easy/node-depths.py) |
-| 🟢 | Remove Duplicates From Linked List | 🟩 | [remove-duplicates-from-linked-list.py](questions/easy/remove-duplicates-from-linked-list.py) |
-| 🟢 | Two Number Sum | 🟩 | [two-number-sum.py](questions/easy/two-number-sum.py) |
-| 🟢 | Validate Subsequence | 🟩 | [validate-subsequence.py](questions/easy/validate-subsequence.py) |
-| 🟢 | Sorted Squared Array | 🟩 | [sorted-squared-array.py](questions/easy/sorted-squared-array.py) |
-| 🟢 | Tournament Winner | 🟩 | [tournament-winner.py](questions/easy/tournament-winner.py) |
-| 🟢 | Non-Constructible Change | 🟩 | [non-constructible-change.py](questions/easy/non-constructible-change.py) |
-| 🟢 | Find Closest Value in BST | 🟩 | [find-closest-value-in-bst.py](questions/easy/find-closest-value-in-bst.py) |
-| 🟢 | Branch Sums | 🟩 | [branch-sums.py](questions/easy/branch-sums.py) |
-| 🟢 | Depth First Search | 🟩 | [depth-first-search.py](questions/easy/depth-first-search.py) |
-| 🟢 | Minimum Wait Time | 🟩 | [minimum-waiting-time.py](questions/easy/minimum-waiting-time.py) |
-| 🟢 | Class Photos | 🟩 | [class-photos.py](questions/easy/class-photos.py) |
+| 🟢 | Node Depths | 🟩 | [node-depths.py](questions/easy/1.node-depths.py) |
+| 🟢 | Remove Duplicates From Linked List | 🟩 | [remove-duplicates-from-linked-list.py](questions/easy/2.remove-duplicates-from-linked-list.py) |
+| 🟢 | Two Number Sum | 🟩 | [two-number-sum.py](questions/easy/3.two-number-sum.py) |
+| 🟢 | Validate Subsequence | 🟩 | [validate-subsequence.py](questions/easy/4.validate-subsequence.py) |
+| 🟢 | Sorted Squared Array | 🟩 | [sorted-squared-array.py](questions/easy/5.sorted-squared-array.py) |
+| 🟢 | Tournament Winner | 🟩 | [tournament-winner.py](questions/easy/6.tournament-winner.py) |
+| 🟢 | Non-Constructible Change | 🟩 | [non-constructible-change.py](questions/easy/7.non-constructible-change.py) |
+| 🟢 | Find Closest Value in BST | 🟩 | [find-closest-value-in-bst.py](questions/easy/8.find-closest-value-in-bst.py) |
+| 🟢 | Branch Sums | 🟩 | [branch-sums.py](questions/easy/9.branch-sums.py) |
+| 🟢 | Depth First Search | 🟩 | [depth-first-search.py](questions/easy/10.depth-first-search.py) |
+| 🟢 | Minimum Wait Time | 🟩 | [minimum-waiting-time.py](questions/easy/11.minimum-waiting-time.py) |
+| 🟢 | Class Photos | 🟩 | [class-photos.py](questions/easy/12.class-photos.py) |
 
 
 
