@@ -13,7 +13,7 @@
 ## Pro Tip
 Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
 
-## ✅ Easy (12/31)
+## ✅ Easy (13/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -29,6 +29,7 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Depth First Search | 🟩 | [depth-first-search.py](questions/easy/10.depth-first-search.py) |
 | 🟢 | Minimum Wait Time | 🟩 | [minimum-waiting-time.py](questions/easy/11.minimum-waiting-time.py) |
 | 🟢 | Class Photos | 🟩 | [class-photos.py](questions/easy/12.class-photos.py) |
+| 🟢 | Tandem Bicycle | 🟩 | [tandem-bicycle.py](questions/easy/13.tandem-bicycle.py) |
 
 
 
