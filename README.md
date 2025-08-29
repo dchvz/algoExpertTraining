@@ -13,7 +13,7 @@
 ## Pro Tip
 Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
 
-## ✅ Easy (10/31)
+## ✅ Easy (11/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -27,6 +27,7 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Find Closest Value in BST | 🟩 | [find-closest-value-in-bst.py](questions/easy/find-closest-value-in-bst.py) |
 | 🟢 | Branch Sums | 🟩 | [branch-sums.py](questions/easy/branch-sums.py) |
 | 🟢 | Depth First Search | 🟩 | [depth-first-search.py](questions/easy/depth-first-search.py) |
+| 🟢 | Minimum Wait Time | 🟩 | [minimum-wait-time.py](questions/easy/minimum-wait-time.py) |
 
 
 
