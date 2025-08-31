@@ -13,7 +13,7 @@
 ## Pro Tip
 Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
 
-## ✅ Easy (14/31)
+## ✅ Easy (15/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -31,6 +31,7 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Class Photos | 🟩 | [class-photos.py](questions/easy/12.class-photos.py) |
 | 🟢 | Tandem Bicycle | 🟩 | [tandem-bicycle.py](questions/easy/13.tandem-bicycle.py) |
 | 🟢 | Nth Fibonacci | 🟩 | [nth-fibonacci.py](questions/easy/14.nth-fibonacci.py) |
+| 🟢 | Product Sum | 🟩 | [product-sum.py](questions/easy/15.product-sum.py) |
 
 
 
