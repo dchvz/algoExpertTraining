@@ -32,6 +32,7 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Tandem Bicycle | 🟩 | [tandem-bicycle.py](questions/easy/13.tandem-bicycle.py) |
 | 🟢 | Nth Fibonacci | 🟩 | [nth-fibonacci.py](questions/easy/14.nth-fibonacci.py) |
 | 🟢 | Product Sum | 🟩 | [product-sum.py](questions/easy/15.product-sum.py) |
+| 🟢 | Binary Search | 🟩 | [binary-search.py](questions/easy/16.binary-search.py) |
 
 
 
