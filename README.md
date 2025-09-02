@@ -13,7 +13,7 @@
 ## Pro Tip
 Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
 
-## ✅ Easy (18/31)
+## ✅ Easy (19/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -35,6 +35,7 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Binary Search | 🟩 | [binary-search.py](questions/easy/16.binary-search.py) |
 | 🟢 | Find Three Largest Numbers | 🟩 | [find-three-largest-numbers.py](questions/easy/17.find-three-largest-numbers.py) |
 | 🟢 | Bubble Sort | 🟩 | [bubble-sort.py](questions/easy/18.bubble-sort.py) |
+| 🟢 | Insertion Sort | 🟩 | [insertion-sort.py](questions/easy/19.insertion-sort.py) |
 
 
 
