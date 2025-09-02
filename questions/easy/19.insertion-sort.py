@@ -1,6 +1,8 @@
 # Insertion Sort 🟢
 # Write a function that takes an array of integers and returns a sorted version of that array using the insertion sort algorithm
 # Insertion sort works by dividing the array into a sorted and an unsorted part. It iterates through the unsorted part and inserts each element into the correct position in the sorted part.
+# Visual explanation: https://www.geeksforgeeks.org/insertion-sort/
+# Keep in mind that this sort happens in-place! It is more like a swap sort, separating the "sorted" array "conceptually", it does not mean creating a new one
 
 # Time Complexity O(n) best case if already sorted
 # Time Complexity O(n²) average case
