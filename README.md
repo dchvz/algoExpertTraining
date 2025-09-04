@@ -13,7 +13,7 @@
 ## Pro Tip
 Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
 
-## ✅ Easy (21/31)
+## ✅ Easy (22/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -38,6 +38,7 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Insertion Sort | 🟩 | [insertion-sort.py](questions/easy/19.insertion-sort.py) |
 | 🟢 | Selection Sort | 🟩 | [selection-sort.py](questions/easy/20.selection-sort.py) |
 | 🟢 | Palindrome Check | 🟩 | [palindrome-check.py](questions/easy/21.palindrome-check.py) |
+| 🟢 | Caesar Cipher Encryptor | 🟩 | [caesar-cipher-encryptor.py](questions/easy/22.caesar-cipher-encryptor.py) |
 
 
 
