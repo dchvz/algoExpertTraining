@@ -13,7 +13,7 @@
 ## Pro Tip
 Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
 
-## ✅ Easy (24/31)
+## ✅ Easy (25/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -41,6 +41,7 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Caesar Cipher Encryptor | 🟩 | [caesar-cipher-encryptor.py](questions/easy/22.caesar-cipher-encryptor.py) |
 | 🟢 | Run-Length Encoding | 🟩 | [run-length-encoding.py](questions/easy/23.run-length-encoding.py) |
 | 🟢 | Generate Document | 🟩 | [generate-document.py](questions/easy/24.generate-document.py) |
+| 🟢 | First Non-Repeating Character | 🟩 | [first-non-repeating-character.py](questions/easy/25.first-non-repeating-character.py) |
 
 
 
