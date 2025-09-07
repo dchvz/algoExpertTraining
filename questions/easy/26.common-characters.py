@@ -12,3 +12,7 @@ def commonCharacters(strings):
   for s in strings[1:]:
     common &= set(s)   # intersection
   return list(common)
+
+print(commonCharacters(["abc", "bcd", "cbad"]))
+print(commonCharacters(["a", "b", "c"]))
+print(commonCharacters(["a", "aa", "aaa", "aaaa", "aaaaa"]))
