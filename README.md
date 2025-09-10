@@ -13,7 +13,7 @@
 ## Pro Tip
 Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
 
-## ✅ Easy (30/31)
+## ✅ Easy (31/31)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -47,6 +47,7 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Semordnilap | 🟩 | [semordnilap.py](questions/easy/28.semordnilap.py) |
 | 🟢 | Middle Node | 🟩 | [middle-node.py](questions/easy/29.middle-node.py) |
 | 🟢 | Evaluate Expression Tree | 🟩 | [evaluate-expression-tree.py](questions/easy/30.evaluate-expression-tree.py) |
+| 🟢 | Transpose Matrix | 🟩 | [transpose-matrix.py](questions/easy/31.transpose-matrix.py) |
 
 
 
