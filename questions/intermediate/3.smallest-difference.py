@@ -34,3 +34,7 @@ def smallest_difference(arrayOne, arrayTwo):
     else:
       second_index += 1
   return pair
+
+print(smallest_difference([-1, 5, 10, 20, 28, 3], [26, 134, 135, 15, 17])) # [28, 26]
+print(smallest_difference([10, 0, 20, 25], [1005, 1006, 1014, 1032, 1031])) # [25, 1005]
+print(smallest_difference([10, 0, 20, 25], [1006, 1007, 1014, 1032, 1031])) # [25, 1006]
