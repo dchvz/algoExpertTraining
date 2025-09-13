@@ -49,10 +49,11 @@ Be aware of the concepts before heading right into the problem. Having an unders
 | 🟢 | Evaluate Expression Tree | 🟩 | [evaluate-expression-tree.py](questions/easy/30.evaluate-expression-tree.py) |
 | 🟢 | Transpose Matrix | 🟩 | [transpose-matrix.py](questions/easy/31.transpose-matrix.py) |
 
-## ✅ Intermediate (1/73)
+## ✅ Intermediate (2/73)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
-| 🔵 | Node Depths | 🟦 | [node-depths.py](questions/intermediate/1.bst-construction.py) |
+| 🔵 | Three Number Sum | 🟦 | [three-number-sum.py](questions/intermediate/1.three-number-sum.py) |
+| 🔵 | Bst Construction | 🟦 | [bst-construction.py](questions/intermediate/2.bst-construction.py) |
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
