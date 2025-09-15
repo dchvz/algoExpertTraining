@@ -51,7 +51,7 @@ Solve on paper before coding
 | 🟢 | Evaluate Expression Tree | 🟩 | [evaluate-expression-tree.py](questions/easy/30.evaluate-expression-tree.py) |
 | 🟢 | Transpose Matrix | 🟩 | [transpose-matrix.py](questions/easy/31.transpose-matrix.py) |
 
-## ✅ Intermediate (4/73)
+## ✅ Intermediate (5/73)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -59,5 +59,6 @@ Solve on paper before coding
 | 🔵 | Bst Construction | 🟦 | [bst-construction.py](questions/intermediate/2.bst-construction.py) |
 | 🔵 | Smallest Difference | 🟦 | [smallest-difference.py](questions/intermediate/3.smallest-difference.py) |
 | 🔵 | Move Element to End | 🟦 | [move-element-to-end.py](questions/intermediate/4.move-element-to-end.py) |
+| 🔵 | Monotonic Array | 🟦 | [monotonic-array.py](questions/intermediate/5.monotonic-array.py) |
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
