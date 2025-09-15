@@ -51,12 +51,13 @@ Solve on paper before coding
 | 🟢 | Evaluate Expression Tree | 🟩 | [evaluate-expression-tree.py](questions/easy/30.evaluate-expression-tree.py) |
 | 🟢 | Transpose Matrix | 🟩 | [transpose-matrix.py](questions/easy/31.transpose-matrix.py) |
 
-## ✅ Intermediate (3/73)
+## ✅ Intermediate (4/73)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
 | 🔵 | Three Number Sum | 🟦 | [three-number-sum.py](questions/intermediate/1.three-number-sum.py) |
 | 🔵 | Bst Construction | 🟦 | [bst-construction.py](questions/intermediate/2.bst-construction.py) |
 | 🔵 | Smallest Difference | 🟦 | [smallest-difference.py](questions/intermediate/3.smallest-difference.py) |
+| 🔵 | Move Element to End | 🟦 | [move-element-to-end.py](questions/intermediate/4.move-element-to-end.py) |
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
