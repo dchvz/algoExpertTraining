@@ -52,12 +52,14 @@ def spiralTraverse(array):
       result.append(array[row][endCol])
 
     for col in reversed(range(startCol, endCol)):
+      # if we are already in the last row, we already traversed it, so break
       if (startRow == endRow):
         break
       print('left', array[endRow][col])
       result.append(array[endRow][col])
 
     for row in reversed(range(startRow + 1, endRow)):
+      # if we are already in the last column, we already traversed it, so break
       if (startCol == endCol):
         break
       print('up', array[row][startCol])
