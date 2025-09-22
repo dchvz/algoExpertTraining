@@ -51,7 +51,7 @@ Solve on paper before coding
 | 🟢 | Evaluate Expression Tree | 🟩 | [evaluate-expression-tree.py](questions/easy/30.evaluate-expression-tree.py) |
 | 🟢 | Transpose Matrix | 🟩 | [transpose-matrix.py](questions/easy/31.transpose-matrix.py) |
 
-## ✅ Intermediate (6/73)
+## ✅ Intermediate (7/73)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -61,5 +61,6 @@ Solve on paper before coding
 | 🔵 | Move Element to End | 🟦 | [move-element-to-end.py](questions/intermediate/4.move-element-to-end.py) |
 | 🔵 | Monotonic Array | 🟦 | [monotonic-array.py](questions/intermediate/5.monotonic-array.py) |
 | 🔵 | Spiral Traverse | 🟦 | [spiral-traverse.py](questions/intermediate/6.spiral-traverse.py) |
+| 🔵 | Longest Peak | 🟦 | [longest-peak.py](questions/intermediate/7.longest-peak.py) |
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
