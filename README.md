@@ -11,9 +11,11 @@
 - I will also include my notes for the data structures crash course
 
 ## Pro Tips
-Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
+- Be aware of the concepts before heading right into the problem. Having an understanding of the problem's nature or even going beyond and looking for additional explanation/exercises could be really helpful
 
-Solve on paper before coding
+- Solve on paper before coding
+
+- On interviews, try to explain the approaches you have in mind, even the brute force ones. Then, as you develop more on the problem you can come up with better solutions and will be able to explain to the interviewer which one is better and why
 
 ## ✅ Easy (31/31)
 
@@ -51,7 +53,7 @@ Solve on paper before coding
 | 🟢 | Evaluate Expression Tree | 🟩 | [evaluate-expression-tree.py](questions/easy/30.evaluate-expression-tree.py) |
 | 🟢 | Transpose Matrix | 🟩 | [transpose-matrix.py](questions/easy/31.transpose-matrix.py) |
 
-## ✅ Intermediate (8/73)
+## ✅ Intermediate (9/73)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -63,5 +65,6 @@ Solve on paper before coding
 | 🔵 | Spiral Traverse | 🟦 | [spiral-traverse.py](questions/intermediate/6.spiral-traverse.py) |
 | 🔵 | Longest Peak | 🟦 | [longest-peak.py](questions/intermediate/7.longest-peak.py) |
 | 🔵 | Array Of Products | 🟦 | [array-of-products.py](questions/intermediate/8.array-of-products.py) |
+| 🔵 | First Duplicate Value | 🟦 | [first-duplicate-value.py](questions/intermediate/9.first-duplicate-value.py) |
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
