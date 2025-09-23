@@ -53,7 +53,7 @@
 | 🟢 | Evaluate Expression Tree | 🟩 | [evaluate-expression-tree.py](questions/easy/30.evaluate-expression-tree.py) |
 | 🟢 | Transpose Matrix | 🟩 | [transpose-matrix.py](questions/easy/31.transpose-matrix.py) |
 
-## ✅ Intermediate (10/73)
+## ✅ Intermediate (11/73)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -67,5 +67,6 @@
 | 🔵 | Array Of Products | 🟦 | [array-of-products.py](questions/intermediate/8.array-of-products.py) |
 | 🔵 | First Duplicate Value | 🟦 | [first-duplicate-value.py](questions/intermediate/9.first-duplicate-value.py) |
 | 🔵 | Merge Overlapping Intervals | 🟦 | [merge-overlapping-intervals.py](questions/intermediate/10.merge-overlapping-intervals.py) |
+| 🔵 | BST Traversal | 🟦 | [bst-traversal.py](questions/intermediate/11.bst-traversal.py) |
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
