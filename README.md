@@ -53,7 +53,7 @@
 | 🟢 | Evaluate Expression Tree | 🟩 | [evaluate-expression-tree.py](questions/easy/30.evaluate-expression-tree.py) |
 | 🟢 | Transpose Matrix | 🟩 | [transpose-matrix.py](questions/easy/31.transpose-matrix.py) |
 
-## ✅ Intermediate (16/73)
+## ✅ Intermediate (17/73)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -73,5 +73,6 @@
 | 🔵 | Find Kth Largest Value | 🟦 | [find-kth-largest-value.py](questions/intermediate/14.find-kth-largest-value.py) |
 | 🔵 | Reconstruct BST | 🟦 | [reconstruct-bst.py](questions/intermediate/15.reconstruct-bst.py) |
 | 🔵 | Invert Binary Tree | 🟦 | [invert-binary-tree.py](questions/intermediate/16.invert-binary-tree.py) |
+| 🔵 | Binary Tree Diameter | 🟦 | [binary-tree-diameter.py](questions/intermediate/17.binary-tree-diameter.py) |
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
