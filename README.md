@@ -53,7 +53,7 @@
 | 🟢 | Evaluate Expression Tree | 🟩 | [evaluate-expression-tree.py](questions/easy/30.evaluate-expression-tree.py) |
 | 🟢 | Transpose Matrix | 🟩 | [transpose-matrix.py](questions/easy/31.transpose-matrix.py) |
 
-## ✅ Intermediate (18/73)
+## ✅ Intermediate (19/73)
 
 | ✔️ | Problem Statement | Difficulty | Solution |
 |----|-------------------|------------|----------|
@@ -75,5 +75,6 @@
 | 🔵 | Invert Binary Tree | 🟦 | [invert-binary-tree.py](questions/intermediate/16.invert-binary-tree.py) |
 | 🔵 | Binary Tree Diameter | 🟦 | [binary-tree-diameter.py](questions/intermediate/17.binary-tree-diameter.py) |
 | 🔵 | Find Successor | 🟦 | [find-successor.py](questions/intermediate/18.find-successor.py) |
+| 🔵 | Max Subset Sum No Adjacent | 🟦 | [max-subset-sum-no-adjacent.py](questions/intermediate/19.max-subset-sum-no-adjacent.py) |
 
 Inspired by [this awesome repo](https://github.com/das-jishu/algoexpert-data-structures-algorithms)
